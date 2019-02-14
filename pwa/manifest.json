@@ -1,0 +1,20 @@
+{
+    "name": "App",
+    "short_name": "主屏幕",
+    "description": "第一个PWA应用",
+    "icons": [
+        {
+            "src": "./apple-icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "density": "0.75"
+        }
+    ],
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#F3F3F3",
+    "theme_color": "#F3F3F3",
+    "related_applications": [],
+    "prefer_related_applications": false
+}
